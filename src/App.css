@@ -1,0 +1,16 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  padding: 25px;
+  justify-content: center;
+  align-items: center;
+}
+
+.input{
+  padding:15px;
+  width: 80%;
+  margin: auto;
+  border: 1px solid lightgrey;
+  border-radius: 6px;
+  font-size: 16px;
+}
